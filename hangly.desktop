@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Hangly Desktop Ornament
+GenericName=Desktop Ornament
+Comment=Physics-based hanging Linux desktop ornament
+Exec=/bin/bash -c "cd $(dirname %k) && ./run.sh"
+Icon=preferences-desktop-theme
+Terminal=false
+StartupNotify=false
+Categories=Utility;Amusement;
+Keywords=ornament;charm;physics;desktop;toy;
