@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/loui/.gemini/antigravity/scratch/hangly/assets/charms/samples/blue_heart.png" added="2026-09-13T17:10:08.305692Z" modified="2026-09-13T17:10:08.305698Z" visited="2026-09-13T17:10:08.305693Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="hangly.py" exec="&apos;hangly.py %u&apos;" modified="2026-09-13T17:10:08.305695Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
